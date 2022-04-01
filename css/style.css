@@ -36,7 +36,7 @@ li {
  レイアウト
 ---------------------------------*/
 .section {
-  padding: 80px 0;
+  padding: 40px 0;
 }
 
 .inner {
@@ -321,7 +321,7 @@ li {
 
   /* レイアウト */
   .section {
-    padding: 60px 0;
+    padding: 40px 0;
   }
 
   .inner {
